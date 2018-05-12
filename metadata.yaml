@@ -1,0 +1,43 @@
+_repo: Maurice-Tiernay-Soldier-of-Fortune_32425
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCormick, A. D. (Arthur David)
+    aliases:
+    - M'Cormick, A. D. (Arthur David)
+    - McCormick, Arthur David
+    - McCormick, A.D.
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '40073'
+    url: http://www.gutenberg.org/2009/agents/40073
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - O'Dowd, Cornelius
+    - Lorrequer, Harry
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, English'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815 -- Fiction'
+- !lcsh 'Soldiers of fortune -- Fiction'
+- !lcc 'PR'
+title: Maurice Tiernay, Soldier of Fortune
+url: http://www.gutenberg.org/ebooks/32425
